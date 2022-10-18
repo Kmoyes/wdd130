@@ -1,0 +1,109 @@
+#content { 
+        max-width:1600px;
+        margin: 0 auto;
+        text-align: center;
+}
+#nava {
+        text-align: left;
+        background-color:rgb(194, 147, 59);
+        color: rgb(56, 83, 172);
+        text-decoration: none;
+}
+#logo {
+        background-color: rgb(194, 147, 59);
+}
+#nava a {
+        color:rgb(20, 44, 48)
+}
+#hero-msg h1 {
+        text-align: center;
+        color: rgb(17, 16, 15);
+        text-decoration: none;
+}
+#hero-msg h4 {
+        text-align: center;
+        color: rgb(17, 16, 15);
+        text-decoration: none;
+}
+#hero-msg  {
+        text-decoration: none;
+}
+#button-box {
+        text-align: center;
+}
+.home-grid{
+        text-align: center;
+}
+#background {
+        height:725px;
+}
+body{
+        background-color: rgb(194, 147, 59);
+        color: rgb(95, 82, 47);
+}
+header{
+        background-color: rgb(15, 15, 14);
+}
+#nava a:hover{
+        background-color: rgb(191, 198, 199);
+        color: black;
+        text-decoration: underline;
+}
+.book {
+        background-color: rgb(208, 223, 0);
+        color: black;
+        text-decoration: none;
+} 
+.join {
+        background-color: rgb(231, 209, 107);
+        color: black;
+        text-decoration: none;
+}
+.book:hover {
+        background-color:rgb(191,198,199);
+        color: black;
+} 
+.join:hover {
+        background-color:rgb(191,198,199);
+        color: black;
+}
+#background {
+        background-color: rgb(159, 201, 168);
+}
+.msg {
+        background-color: rgb(217, 231, 21)
+}
+footer {
+        background-color: rgb(201, 151, 85);
+        color: rgb(24, 23, 23);
+}
+footer a {
+        text-decoration: none;
+}
+footer p { 
+        font-size: 1.2em;
+        text-decoration: underline;
+}
+footer a:hover {
+        color: rgb(19, 18, 18);
+}
+.home-title {
+        color: rgb(8, 8, 8);
+}
+h4 {
+        color: rgb(15, 14, 14);
+}
+.msg h2 {
+        color: rgb(15, 15, 14);
+}
+.msg p {
+        color: rgb(10, 10, 9);
+}
+.icon {
+        width: 80px;
+}
+.social {
+        width: 80px;
+        margin: 0 auto;
+        text-align: center;
+}
